@@ -1,1 +1,2 @@
-dev/
+dev/ merge=ours
+index.html merge=ours
